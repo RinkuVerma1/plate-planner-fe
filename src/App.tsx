@@ -7,12 +7,10 @@ import './App.css';
 
 const App: React.FC = () => {
   const isAuthenticated = false; // Change this based on your authentication logic
-// cdlksc
+
   return (
     <Router>
-      
       <Routes>
-
         <Route
           path='/'
           element={
