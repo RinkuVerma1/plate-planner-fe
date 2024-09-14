@@ -6,6 +6,7 @@ import NotFoundPage from './screens/NotFoundPage';
 import './App.css';
 
 const App: React.FC = () => {
+  // lksafdj
   const isAuthenticated = false; // Change this based on your authentication logic
 
   return (
